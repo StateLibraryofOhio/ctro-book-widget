@@ -1,0 +1,55 @@
+img {
+    width: auto;
+    height: 100%;
+    max-height: 200px;
+}
+
+.card-author {
+    font-family: 'Crimson Text', serif;
+    display: block;
+}
+
+.card-btn {
+    background-color: rgba(249, 249, 249, 0.75);
+    border-radius: 2px;
+    border: 1px solid #eee;
+    color: #555;
+    cursor: pointer;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 0.8rem;
+    padding: 6px 10px;
+    text-align: center;
+    text-decoration: none;
+    width: auto;
+
+}
+
+.card-btn:hover {
+    background-color: rgba(241, 241, 241, 0.75);
+    color: black;
+}
+
+.card-title {
+    font-family: 'Poppins', sans-serif;
+}
+
+.splide {
+    margin: 0 auto;
+}
+
+.splide__slide {
+    text-align: center;
+}
+
+.ctro__widget-pagination {
+    bottom: -1.8rem;
+}
+
+.ctro__widget-arrow {
+    background: #fff;
+}
+
+.ctro__widget-arrow svg {
+    fill: #000;
+}
