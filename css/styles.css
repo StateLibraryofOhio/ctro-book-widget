@@ -53,3 +53,7 @@ img {
 .ctro__widget-arrow svg {
     fill: #000;
 }
+
+.splide__pagination__page.is-active {
+    background: #bebebe;
+}
