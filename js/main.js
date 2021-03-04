@@ -44,5 +44,6 @@ document.addEventListener("DOMContentLoaded", function () {
         },
     }
 
-    new Splide('.splide', config).mount();
+    var splide = new Splide('.splide', config);
+    splide.mount();
 });
